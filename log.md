@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 06, 2020 
+### Day 0: April 06, Monday 2020. 
 
 **Today's Progress**: Today i have decided that i will take the challange.
 
