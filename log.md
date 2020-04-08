@@ -15,3 +15,12 @@
 **Thoughts:** I was not willing to code today, but I made myself sit and do it. It was a part of 30 days challenge, which I left earlier in b/w, but from today I am restarting it. Initially, I do not found it interesting while solving, but when the solution was accepted,  I felt awesome.
 
 **Link to work:** [Solution Day 10](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2010:%20Binary%20Numbers)
+
+
+### Day 2: April 08, Wednesday 2020. 
+
+**Today's Progress**: Today i tried hackerrank's 2D Arrays problem.
+
+**Thoughts:** As I started today, the problem seemed to okay, but I misinterpreted the question; I thought the problem is out of my league, and then I read the editorial of hacker rank, which I do not found that much helping because they directly shared the code. I am still in confusion on how to figure it out on my own. . 
+
+**Link to work:** [Solution Day 11](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2011:%202D%20Arrays)
