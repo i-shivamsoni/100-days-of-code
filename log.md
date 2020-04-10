@@ -30,7 +30,7 @@
 **Link to work:** [Solution Day 11](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2011:%202D%20Arrays)
 
 
-### Day 3: April 09, Wednesday 2020. 
+### Day 3: April 09, Thrusday 2020. 
 
 **Today's Progress**: Today i solved & tried couple of problems from codechef & hackerrank.
 
@@ -39,3 +39,14 @@
 **Scope of Improvement:** read the question twice & properly. 
 
 **Link to work:** [Solution Day 12](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2012:%20Inheritance)
+
+
+### Day 4: April 10, Friday 2020. 
+
+**Today's Progress**: Today I solved CodeChef problem but trying to solve hacker earth's problem.
+
+**Thoughts:** Today most of the went writing the assignments of my college so I started late so the problem is unsolved it will solve it tomorrow. 
+
+**Scope of Improvement:** Be Punctual and complete your work before deadlines. 
+
+**Link to work:** [Solution Day 12](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2013:%20Abstract%20Classes)
