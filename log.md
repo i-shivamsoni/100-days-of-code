@@ -50,3 +50,25 @@
 **Scope of Improvement:** Be Punctual and complete your work before deadlines. 
 
 **Link to work:** [Solution Day 12](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2013:%20Abstract%20Classes)
+
+
+### Day 5: April 11, Saturday 2020. 
+
+**Today's Progress**: Solved day 12 hacker earth & almost solved codechef DSA challenge's problem. 
+
+**Thoughts:** now i am enjoying while solving the code.
+
+**Scope of Improvement:**  Look for patterns in the problem and make a formula out of it.
+
+**Link to work:** [Solution](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2014:%20Scope)
+
+### Day 6: April 12, Sunday 2020. 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Scope of Improvement:**  
+
+**Link to work:** []()
+
