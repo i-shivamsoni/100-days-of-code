@@ -49,7 +49,7 @@
 
 **Scope of Improvement:** Be Punctual and complete your work before deadlines. 
 
-**Link to work:** [Solution Day 12](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2013:%20Abstract%20Classes)
+**Link to work:** [Solution Day 13](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2013:%20Abstract%20Classes)
 
 
 ### Day 5: April 11, Saturday 2020. 
@@ -60,9 +60,30 @@
 
 **Scope of Improvement:**  Look for patterns in the problem and make a formula out of it.
 
-**Link to work:** [Solution](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2014:%20Scope)
+**Link to work:** [Solution Day 14](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2014:%20Scope)
 
 ### Day 6: April 12, Sunday 2020. 
+
+**Today's Progress**: Solved couple of questions & one is partially accepted i will solve it soon i.e from codechef dsa learning series.
+
+**Thoughts:** I was solving the code chef problem for more than 12 hours but no results, while uploading my code on stack overflow I was getting an error "code not properly formatted," but I formatted my code
+
+**Scope of Improvement:**  know when to ask for help.
+
+**Link to work:** [Solution Day 15 ](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2015:%20Linked%20List)
+
+### Day 7: April 13, Monday 2020. 
+
+**Today's Progress**:  Solved couple of questions & one is partially accepted .
+
+**Thoughts:** i am solving codechef dsa series questions which i will upload after completion of a section, it have multiple sections week wise. 
+
+**Scope of Improvement:**  Do not try to solve by intimating it try to find the patterns & series in the problem. It drastically reduces the time complexity.
+the solution is partially accepted.
+**Link to work:** [Solution Day 16](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2016:%20Exceptions%20-%20String%20to%20Integer)
+
+
+### Day 8: April 14, Tuesday 2020. 
 
 **Today's Progress**: 
 
