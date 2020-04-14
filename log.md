@@ -78,12 +78,24 @@
 
 **Thoughts:** i am solving codechef dsa series questions which i will upload after completion of a section, it have multiple sections week wise. 
 
-**Scope of Improvement:**  Do not try to solve by intimating it try to find the patterns & series in the problem. It drastically reduces the time complexity.
+**Scope of Improvement:**  Do not try to solve by intimating it, try to find the patterns & series in the problem. It drastically reduces the time complexity.
 the solution is partially accepted.
 **Link to work:** [Solution Day 16](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2016:%20Exceptions%20-%20String%20to%20Integer)
 
 
 ### Day 8: April 14, Tuesday 2020. 
+
+**Today's Progress**: Solved the problems .
+
+**Thoughts:** problem solving is time taking process, but when the problem gets solved it gives a happy feeling which convinces me to return for the next day.
+
+**Scope of Improvement:**  test cases for problems are important, they can help you in thinking about what are you missing, Today I used a random test case generator for my problems, it lead me to my solution. 
+
+**Link to work:** [Solution Day 16](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2017:%20More%20Exceptions)
+
+
+
+### Day 9: April 15, Wednesday 2020. 
 
 **Today's Progress**: 
 
@@ -92,4 +104,3 @@ the solution is partially accepted.
 **Scope of Improvement:**  
 
 **Link to work:** []()
-
