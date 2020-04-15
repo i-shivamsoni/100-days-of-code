@@ -91,11 +91,20 @@ the solution is partially accepted.
 
 **Scope of Improvement:**  test cases for problems are important, they can help you in thinking about what are you missing, Today I used a random test case generator for my problems, it lead me to my solution. 
 
-**Link to work:** [Solution Day 16](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2017:%20More%20Exceptions)
-
+**Link to work:** [Solution Day 17](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2017:%20More%20Exceptions)
 
 
 ### Day 9: April 15, Wednesday 2020. 
+
+**Today's Progress**: Completed Code chef Dsa series part 1
+
+**Thoughts:** i messed up my 30 days of code repo, i learned today sometimes some unwanted damages can happen, than we have to find out how can accept them and use them for our benefits. 
+
+**Scope of Improvement:**  learn how to use git , unix & linux. 
+
+**Link to work:** [Solution day 18](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2018:%20Queues%20and%20Stacks)
+
+### Day 10: April 16, Tuesday 2020. 
 
 **Today's Progress**: 
 
