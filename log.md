@@ -106,10 +106,10 @@ the solution is partially accepted.
 
 ### Day 10: April 16, Tuesday 2020. 
 
-**Today's Progress**: 
+**Today's Progress**: solved 2 problem & strugled to solve some problem.
 
-**Thoughts:** 
+**Thoughts:**  i have to study some linear data structures, i need to learn how to cheer myself up when i face disappointment.  
 
-**Scope of Improvement:**  
+**Scope of Improvement:**  learn when to take a break.
 
-**Link to work:** []()
+**Link to work:** [Solution day 19](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2019:%20Interfaces) [Solution day 20](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2020:%20Sorting)
