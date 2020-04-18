@@ -124,3 +124,15 @@ the solution is partially accepted.
 **Scope of Improvement:**  I can allocate more time to cp now & and i can take some breaks in between.
 
 **Link to work:** [Solution day 21](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2021:%20Generics)
+
+
+
+### Day 12:Saturday April 19,  2020. 
+
+**Today's Progress**: solved a full problem .
+
+**Thoughts:** Hacking a habit is a challenging task.  
+
+**Scope of Improvement:** Take proper sleep for waking up as fresh & full of energy.
+
+**Link to work:** [Solution day 26](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2026:%20Nested%20Logic)
