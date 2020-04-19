@@ -127,12 +127,25 @@ the solution is partially accepted.
 
 
 
-### Day 12:Saturday April 19,  2020. 
+### Day 12:Saturday April 18,  2020. 
 
 **Today's Progress**: solved a full problem .
 
-**Thoughts:** Hacking a habit is a challenging task.  
+**Thoughts:** Making a habit is a challenging task.  
 
 **Scope of Improvement:** Take proper sleep for waking up as fresh & full of energy.
 
 **Link to work:** [Solution day 26](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2026:%20Nested%20Logic)
+
+
+### Day 13:Sunday April 19,  2020. 
+
+**Today's Progress**: solved a full problem out of 30 , 6 are yet to be solved.
+
+**Thoughts:** I need to focus more and stick to a time table.  
+
+**Scope of Improvement:** Study and pratise more linear data structure.
+
+**Link to work:** [Solution day 26](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2025:%20Running%20Time%20and%20Complexity
+)
+
