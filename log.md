@@ -149,3 +149,15 @@ the solution is partially accepted.
 **Link to work:** [Solution day 26](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2025:%20Running%20Time%20and%20Complexity
 )
 
+### Day 14 : Monday April 20,  2020. 
+
+**Today's Progress**:stuck.
+
+**Thoughts:** i am thoughtless today.  
+
+**Scope of Improvement:** learn how to manage frustation.
+
+**Link to work:** [Solution day 24](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
+
+
+
