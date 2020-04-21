@@ -160,4 +160,15 @@ the solution is partially accepted.
 **Link to work:** [Solution day 24](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
 
 
+### Day 15 : Tuesday April 21,  2020. 
+
+**Today's Progress**: Progressed a little.
+
+**Thoughts:** I feel like i m groot.  
+
+**Scope of Improvement:** Learn to focus on one thing at a time.
+
+**Link to work:** [Solution day 24](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
+
+
 
