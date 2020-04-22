@@ -171,4 +171,13 @@ the solution is partially accepted.
 **Link to work:** [Solution day 24](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
 
 
+### Day 16 : Wednesday April 22,  2020. 
+
+**Today's Progress**: 27/30 solved in hackerrank 30 day challenge.
+
+**Thoughts:** A problem a day keep bugs of mind away.  
+
+**Scope of Improvement:** there is always a scope of improvement.
+
+**Link to work:** [Solution day 29](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2029:%20Bitwise%20AND)
 
