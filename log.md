@@ -181,3 +181,16 @@ the solution is partially accepted.
 
 **Link to work:** [Solution day 29](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2029:%20Bitwise%20AND)
 
+
+
+### Day 17 : Thrusday April 23,  2020. 
+
+**Today's Progress**: i did programming in android.
+
+**Thoughts:** first day cp streak is broken.  
+
+**Scope of Improvement:** Fix time for cp.
+
+**Link to work:** [Solution day 29](https://github.com/phoenix30s/Tour_Guide)
+
+
