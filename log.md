@@ -194,3 +194,14 @@ the solution is partially accepted.
 **Link to work:** [Solution day 29](https://github.com/phoenix30s/Tour_Guide)
 
 
+
+### Day 18 : Friday April 24,  2020. 
+
+**Today's Progress**: few lessons left to complete andriod basics nano degree.
+
+**Thoughts:** I am about to complete the nano degree yay.  
+
+**Scope of Improvement:** again Fix time for cp.
+
+**Link to work:** [Solution day 29](https://github.com/phoenix30s/Tour_Guide)
+
