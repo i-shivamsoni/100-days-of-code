@@ -215,3 +215,13 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Try Try Try.
 
+
+
+### Day 20 : Sunday April 26,  2020. 
+
+**Today's Progress**: submitted the assignment for andriod basics nano degree.
+
+**Thoughts:** so after working for day and for one month i completed the four month's degree in one month i am happy.  
+
+**Scope of Improvement:** Revise the concepts again.
+
