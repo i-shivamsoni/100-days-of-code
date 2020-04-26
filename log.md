@@ -225,3 +225,4 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Revise the concepts again.
 
+**Link to work:** [Today's work](https://github.com/phoenix30s/Basic_News_App)
