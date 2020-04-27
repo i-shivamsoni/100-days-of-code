@@ -226,3 +226,15 @@ the solution is partially accepted.
 **Scope of Improvement:** Revise the concepts again.
 
 **Link to work:** [Today's work](https://github.com/phoenix30s/Basic_News_App)
+
+
+
+### Day 21 : Monday April 27,  2020. 
+
+**Today's Progress**:Completed the andriod basics nano degree.
+
+**Thoughts:** so after working for day and for one month i completed the four month's degree in one month i am happy.  
+
+**Scope of Improvement:** Revise the concepts again.
+
+
