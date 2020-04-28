@@ -238,3 +238,14 @@ the solution is partially accepted.
 **Scope of Improvement:** Revise the concepts again.
 
 
+
+### Day 22 : Tuesday April 28,  2020. 
+
+**Today's Progress**:started learning c++.
+
+**Thoughts:** learning is an never ending journey.  
+
+**Scope of Improvement:** make some new habits.
+
+**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+
