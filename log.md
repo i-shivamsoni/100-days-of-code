@@ -259,3 +259,13 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
 
+
+### Day 24 : Thursday April 30,  2020. 
+
+**Today's Progress**:learned more about A* algo.
+
+**Thoughts:** A* algo will require core understandings of data structure.  
+
+**Scope of Improvement:** have some time for reading books.
+
+**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
