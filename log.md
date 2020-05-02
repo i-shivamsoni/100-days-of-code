@@ -291,3 +291,15 @@ the solution is partially accepted.
 **Scope of Improvement:** have some time for reading books.
 
 **Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+
+
+### Day 26 : Saturday May 02,  2020. 
+
+**Today's Progress**:digged in deep of basic C++.
+
+**Thoughts:** Refreshed C++ essentials.  
+
+**Scope of Improvement:** Adjust time schedule.
+
+**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+
