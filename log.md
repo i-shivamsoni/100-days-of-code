@@ -303,3 +303,14 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
 
+
+### Day 27 : Sunday May 03,  2020. 
+
+**Today's Progress**:digged in deep of basic C++.
+
+**Thoughts:** To be honest i am feeling knocked out today.  
+
+**Scope of Improvement:** Adjust time schedule.
+
+**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+
