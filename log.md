@@ -314,3 +314,13 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
 
+### Day 28 : Monday May 04,  2020. 
+
+**Today's Progress**:Learned more about dsa.
+
+**Thoughts:** i studied well today.  
+
+**Scope of Improvement:** Adjust time schedule.
+
+**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+
