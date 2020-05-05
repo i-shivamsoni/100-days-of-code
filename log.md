@@ -314,6 +314,7 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
 
+
 ### Day 28 : Monday May 04,  2020. 
 
 **Today's Progress**:Learned more about dsa.
@@ -324,3 +325,14 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
 
+
+
+### Day 29 : Tuesday May 05,  2020. 
+
+**Today's Progress**:Learned more about dsa.
+
+**Thoughts:** Today one the one the most intresting as well as challenging day till now because i digged deep in how to add c++ extral lib in vs code.  
+
+**Scope of Improvement:** still i am bad on Adjusting the time schedule.
+
+**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
