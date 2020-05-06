@@ -301,7 +301,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Adjust time schedule.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
 
 ### Day 27 : Sunday May 03,  2020. 
@@ -312,7 +312,8 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Adjust time schedule.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
 
 
 ### Day 28 : Monday May 04,  2020. 
@@ -335,4 +336,17 @@ the solution is partially accepted.
 
 **Scope of Improvement:** still i am bad on Adjusting the time schedule.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+###### Day 30 : Wednesday May 06,  2020. 
+
+**Today's Progress**: completed 30 days of the challenge.
+
+**Thoughts:** I have learned basic android development till now.  
+
+**Scope of Improvement:** Take short breaks and stick with the modules.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+
+
