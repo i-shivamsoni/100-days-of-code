@@ -348,5 +348,12 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
+###### Day 31 : Thursday May 07,  2020. 
 
+**Today's Progress**: About to complete A* algo .
 
+**Thoughts:** Challenging day.  
+
+**Scope of Improvement:** Improve social life.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
