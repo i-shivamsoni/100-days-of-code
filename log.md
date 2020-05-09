@@ -357,3 +357,23 @@ the solution is partially accepted.
 **Scope of Improvement:** Improve social life.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
+
+###### Day 32 : Friday May 08,  2020. 
+
+**Today's Progress**: completed A* algo .
+
+**Thoughts:** Challenging day.  
+
+**Scope of Improvement:** Improve social life.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
+
+###### Day 33 : Saturday May 09,  2020. 
+
+**Today's Progress**:Today i did differnet things .
+
+**Thoughts:** Participated in codeforces contest & my solution was not accepted.  
+
+**Scope of Improvement:** Improve social life.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
