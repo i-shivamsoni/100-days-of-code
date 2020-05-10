@@ -377,3 +377,14 @@ the solution is partially accepted.
 **Scope of Improvement:** Improve social life.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
+
+
+###### Day 34 : Sunday May 10,  2020. 
+
+**Today's Progress**: Stuck at a problem .
+
+**Thoughts:** The feeling is hard to handle its giving me tough times because i am unable to solve the problem.  
+
+**Scope of Improvement:** Stay away from your phone.
+
+
