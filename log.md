@@ -387,4 +387,12 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Stay away from your phone.
 
+###### Day 35 : Monday May 11,  2020. 
 
+**Today's Progress**: Studied recursion .
+
+**Thoughts:** I studied recursion, The my college is orgnaising our exams and viva. So Frequency & Intensity can get affected.  
+
+**Scope of Improvement:** Stay away from your phone.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
