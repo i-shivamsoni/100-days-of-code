@@ -396,3 +396,13 @@ the solution is partially accepted.
 **Scope of Improvement:** Stay away from your phone.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+###### Day 36 : Monday May 12,  2020. 
+
+**Today's Progress**:  Doing my first open source contribution.
+
+**Thoughts:** Today i am doing my first open source contribution.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/oshi/)
