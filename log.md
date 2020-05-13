@@ -16,7 +16,7 @@
 
 **Scope of Improvement:** Practise delayed gratification & keep doing what you are doing.
 
-**Link to work:** [Solution Day 10](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2010:%20Binary%20Numbers)
+**Link to work:** [Solution Day 10](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2010:%20Binary%20Numbers)
 
 
 ### Day 2: April 08, Wednesday 2020. 
@@ -27,7 +27,7 @@
 
 **Scope of Improvement:** Make the solution on the paper than try to code.
 
-**Link to work:** [Solution Day 11](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2011:%202D%20Arrays)
+**Link to work:** [Solution Day 11](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2011:%202D%20Arrays)
 
 
 ### Day 3: April 09, Thrusday 2020. 
@@ -38,7 +38,7 @@
 
 **Scope of Improvement:** read the question twice & properly. 
 
-**Link to work:** [Solution Day 12](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2012:%20Inheritance)
+**Link to work:** [Solution Day 12](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2012:%20Inheritance)
 
 
 ### Day 4: April 10, Friday 2020. 
@@ -49,7 +49,7 @@
 
 **Scope of Improvement:** Be Punctual and complete your work before deadlines. 
 
-**Link to work:** [Solution Day 13](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2013:%20Abstract%20Classes)
+**Link to work:** [Solution Day 13](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2013:%20Abstract%20Classes)
 
 
 ### Day 5: April 11, Saturday 2020. 
@@ -60,7 +60,7 @@
 
 **Scope of Improvement:**  Look for patterns in the problem and make a formula out of it.
 
-**Link to work:** [Solution Day 14](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2014:%20Scope)
+**Link to work:** [Solution Day 14](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2014:%20Scope)
 
 ### Day 6: April 12, Sunday 2020. 
 
@@ -70,7 +70,7 @@
 
 **Scope of Improvement:**  know when to ask for help.
 
-**Link to work:** [Solution Day 15 ](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2015:%20Linked%20List)
+**Link to work:** [Solution Day 15 ](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2015:%20Linked%20List)
 
 ### Day 7: April 13, Monday 2020. 
 
@@ -80,7 +80,7 @@
 
 **Scope of Improvement:**  Do not try to solve by intimating it, try to find the patterns & series in the problem. It drastically reduces the time complexity.
 the solution is partially accepted.
-**Link to work:** [Solution Day 16](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2016:%20Exceptions%20-%20String%20to%20Integer)
+**Link to work:** [Solution Day 16](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2016:%20Exceptions%20-%20String%20to%20Integer)
 
 
 ### Day 8: April 14, Tuesday 2020. 
@@ -91,7 +91,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:**  test cases for problems are important, they can help you in thinking about what are you missing, Today I used a random test case generator for my problems, it lead me to my solution. 
 
-**Link to work:** [Solution Day 17](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2017:%20More%20Exceptions)
+**Link to work:** [Solution Day 17](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2017:%20More%20Exceptions)
 
 
 ### Day 9: April 15, Wednesday 2020. 
@@ -102,7 +102,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:**  learn how to use git , unix & linux. 
 
-**Link to work:** [Solution day 18](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2018:%20Queues%20and%20Stacks)
+**Link to work:** [Solution day 18](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2018:%20Queues%20and%20Stacks)
 
 ### Day 10: April 16, Thursday 2020. 
 
@@ -112,7 +112,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:**  learn when to take a break.
 
-**Link to work:** [Solution day 19](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2019:%20Interfaces) [Solution day 20](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2020:%20Sorting)
+**Link to work:** [Solution day 19](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2019:%20Interfaces) [Solution day 20](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2020:%20Sorting)
 
 
 ### Day 11: April 17, Friday 2020. 
@@ -123,7 +123,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:**  I can allocate more time to cp now & and i can take some breaks in between.
 
-**Link to work:** [Solution day 21](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2021:%20Generics)
+**Link to work:** [Solution day 21](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2021:%20Generics)
 
 
 
@@ -135,7 +135,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Take proper sleep for waking up as fresh & full of energy.
 
-**Link to work:** [Solution day 26](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2026:%20Nested%20Logic)
+**Link to work:** [Solution day 26](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2026:%20Nested%20Logic)
 
 
 ### Day 13:Sunday April 19,  2020. 
@@ -146,7 +146,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Study and pratise more linear data structure.
 
-**Link to work:** [Solution day 26](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2025:%20Running%20Time%20and%20Complexity
+**Link to work:** [Solution day 26](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2025:%20Running%20Time%20and%20Complexity
 )
 
 ### Day 14 : Monday April 20,  2020. 
@@ -157,7 +157,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** learn how to manage frustation.
 
-**Link to work:** [Solution day 24](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
+**Link to work:** [Solution day 24](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
 
 
 ### Day 15 : Tuesday April 21,  2020. 
@@ -168,7 +168,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Learn to focus on one thing at a time.
 
-**Link to work:** [Solution day 24](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
+**Link to work:** [Solution day 24](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2024:%20More%20Linked%20Lists)
 
 
 ### Day 16 : Wednesday April 22,  2020. 
@@ -179,7 +179,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** there is always a scope of improvement.
 
-**Link to work:** [Solution day 29](https://github.com/phoenix30s/30daysofcode/blob/master/Day%2029:%20Bitwise%20AND)
+**Link to work:** [Solution day 29](https://github.com/i-shivamsoni/30daysofcode/blob/master/Day%2029:%20Bitwise%20AND)
 
 
 
@@ -191,7 +191,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Fix time for cp.
 
-**Link to work:** [Solution day 29](https://github.com/phoenix30s/Tour_Guide)
+**Link to work:** [Solution day 29](https://github.com/i-shivamsoni/Tour_Guide)
 
 
 
@@ -203,7 +203,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** again Fix time for cp.
 
-**Link to work:** [Solution day 29](https://github.com/phoenix30s/Tour_Guide)
+**Link to work:** [Solution day 29](https://github.com/i-shivamsoni/Tour_Guide)
 
 
 
@@ -225,7 +225,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Revise the concepts again.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Basic_News_App)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Basic_News_App)
 
 
 
@@ -247,7 +247,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** make some new habits.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 ### Day 23 : Wedneday April 29,  2020. 
 
@@ -257,7 +257,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** have some time for reading books.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 
 ### Day 24 : Thursday April 30,  2020. 
@@ -268,7 +268,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** have some time for reading books.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 
 ### Day 24 : Thursday April 30,  2020. 
@@ -279,7 +279,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** have some time for reading books.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 
 ### Day 25 : Friday May 01,  2020. 
@@ -290,7 +290,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** have some time for reading books.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 
 ### Day 26 : Saturday May 02,  2020. 
@@ -324,7 +324,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Adjust time schedule.
 
-**Link to work:** [Today's work](https://github.com/phoenix30s/Learning_C_Plus_Plus)
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 
 
@@ -338,7 +338,7 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
-###### Day 30 : Wednesday May 06,  2020. 
+### Day 30 : Wednesday May 06,  2020. 
 
 **Today's Progress**: completed 30 days of the challenge.
 
@@ -348,7 +348,7 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
-###### Day 31 : Thursday May 07,  2020. 
+### Day 31 : Thursday May 07,  2020. 
 
 **Today's Progress**: About to complete A* algo .
 
@@ -358,7 +358,7 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
-###### Day 32 : Friday May 08,  2020. 
+### Day 32 : Friday May 08,  2020. 
 
 **Today's Progress**: completed A* algo .
 
@@ -368,7 +368,7 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
-###### Day 33 : Saturday May 09,  2020. 
+### Day 33 : Saturday May 09,  2020. 
 
 **Today's Progress**:Today i did differnet things .
 
@@ -379,7 +379,7 @@ the solution is partially accepted.
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 
-###### Day 34 : Sunday May 10,  2020. 
+### Day 34 : Sunday May 10,  2020. 
 
 **Today's Progress**: Stuck at a problem .
 
@@ -387,7 +387,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Stay away from your phone.
 
-###### Day 35 : Monday May 11,  2020. 
+### Day 35 : Monday May 11,  2020. 
 
 **Today's Progress**: Studied recursion .
 
@@ -397,11 +397,21 @@ the solution is partially accepted.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
-###### Day 36 : Monday May 12,  2020. 
+### Day 36 : Monday May 12,  2020. 
 
 **Today's Progress**:  Doing my first open source contribution.
 
 **Thoughts:** Today i am doing my first open source contribution.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/oshi/)
+
+### Day 37 : Monday May 13,  2020. 
+
+**Today's Progress**:  completed my first open source contribution.
+
+**Thoughts:** Finally i did my first open source contribution.  
 
 **Scope of Improvement:** There is always a scope for improvement.
 
