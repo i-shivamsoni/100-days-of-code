@@ -416,3 +416,13 @@ the solution is partially accepted.
 **Scope of Improvement:** There is always a scope for improvement.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/oshi/)
+
+### Day 38 : Monday May 14,  2020. 
+
+**Today's Progress**: Practised recursion .
+
+**Thoughts:** I Practised recursion, Exams are starting.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
