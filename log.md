@@ -426,3 +426,13 @@ the solution is partially accepted.
 **Scope of Improvement:** There is always a scope for improvement.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+### Day 39 : Monday May 15,  2020. 
+
+**Today's Progress**: Practised recursion .
+
+**Thoughts:** I Practised recursion, Exams has started.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
