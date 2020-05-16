@@ -271,17 +271,6 @@ the solution is partially accepted.
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
 
 
-### Day 24 : Thursday April 30,  2020. 
-
-**Today's Progress**:learned more about A* algo.
-
-**Thoughts:** A* algo will require core understandings of data structure.  
-
-**Scope of Improvement:** have some time for reading books.
-
-**Link to work:** [Today's work](https://github.com/i-shivamsoni/Learning_C_Plus_Plus)
-
-
 ### Day 25 : Friday May 01,  2020. 
 
 **Today's Progress**:Installed linux enviroment for the development.
@@ -432,6 +421,16 @@ the solution is partially accepted.
 **Today's Progress**: Practised recursion .
 
 **Thoughts:** I Practised recursion, Exams has started.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+### Day 40 : Monday May 16,  2020. 
+
+**Today's Progress**: Practise little recursion .
+
+**Thoughts:** I have to pause 100 days of code until the exams and viva are over.  
 
 **Scope of Improvement:** There is always a scope for improvement.
 
