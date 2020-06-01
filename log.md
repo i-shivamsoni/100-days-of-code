@@ -436,12 +436,19 @@ the solution is partially accepted.
 **Scope of Improvement:** There is always a scope for improvement.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
-=======
-###### Day 35 : Monday May 11,  2020. 
 
-**Today's Progress**: Stuck at a problem .
+--------------------------------------------------------------------------------------------------------------------------------------
+#                                                        PAUSE                                        
 
-**Thoughts:** The feeling is hard to handle its giving me tough times because i am unable to solve the problem.  
+## I took a pause of 15 days because of exams & other personal reasons, but i did some code which i have not added & and i am not counting that in the challange. I am resuming the challange from 01 june 2020 that will be my 41th day.
+-------------------------------------------------------------------------------------------------------------------------------------
 
-**Scope of Improvement:** Stay away from your phone.
->>>>>>> c48c45f44d173d310df82a50cce98e83c4ab3bdf
+### Day 40 : Mon June 01,  2020. 
+
+**Today's Progress**: Practise recursion Almost whole day.
+
+**Thoughts:** Today i restarted the challenge, practised recusrion whole day but still i was unable to code fibonaci series through recusrion and i did tryhackme's linux lab.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
