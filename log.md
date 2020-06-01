@@ -376,6 +376,7 @@ the solution is partially accepted.
 
 **Scope of Improvement:** Stay away from your phone.
 
+<<<<<<< HEAD
 ### Day 35 : Monday May 11,  2020. 
 
 **Today's Progress**: Studied recursion .
@@ -435,3 +436,12 @@ the solution is partially accepted.
 **Scope of Improvement:** There is always a scope for improvement.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+=======
+###### Day 35 : Monday May 11,  2020. 
+
+**Today's Progress**: Stuck at a problem .
+
+**Thoughts:** The feeling is hard to handle its giving me tough times because i am unable to solve the problem.  
+
+**Scope of Improvement:** Stay away from your phone.
+>>>>>>> c48c45f44d173d310df82a50cce98e83c4ab3bdf
