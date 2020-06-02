@@ -443,11 +443,21 @@ the solution is partially accepted.
 ## I took a pause of 15 days because of exams & other personal reasons, but i did some code which i have not added & and i am not counting that in the challange. I am resuming the challange from 01 june 2020 that will be my 41th day.
 -------------------------------------------------------------------------------------------------------------------------------------
 
-### Day 40 : Mon June 01,  2020. 
+### Day 41 : Mon June 01,  2020. 
 
 **Today's Progress**: Practise recursion Almost whole day.
 
 **Thoughts:** Today i restarted the challenge, practised recusrion whole day but still i was unable to code fibonaci series through recusrion and i did tryhackme's linux lab.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+### Day 42 : Tue June 02,  2020. 
+
+**Today's Progress**: Practise recursion Almost whole day.
+
+**Thoughts:** When you know algorithms you can really make good programs.  
 
 **Scope of Improvement:** There is always a scope for improvement.
 
