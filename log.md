@@ -462,3 +462,13 @@ the solution is partially accepted.
 **Scope of Improvement:** There is always a scope for improvement.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+### Day 43 : Wed June 03,  2020. 
+
+**Today's Progress**: still strengthing my concepts about recusion.
+
+**Thoughts:** Believe in what you are doing.  
+
+**Scope of Improvement:** There is always a scope for improvement.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
