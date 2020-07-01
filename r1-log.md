@@ -1,9 +1,16 @@
 # #100DaysOfCode Log - Round 1 - [Shivam Soni]
 
-The log of my #100DaysOfCode challenge. Started on [April 4, Monday, 2020].
+The log of my #100DaysOfCode challenge. Started on [July 1, Wednesday, 2020].
 
 ## Log
 
-### You can use the check the logs from the link given below, I am maintaining the records in log.md.
-https://github.com/phoenix30s/100-days-of-code/blob/master/log.md
+### Day 01 : Wednesday July 01,  2020. 
+
+**Today's Progress**: Studied Pointers in c++.
+
+**Thoughts:** I restarted the challenge from today, hopefully i will complete it this time .  
+
+**Scope of Improvement:** fix time slots for studying.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
