@@ -492,3 +492,9 @@ the solution is partially accepted.
 **Scope of Improvement:** There is always a scope for improvement.
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Restart from 0 
+I was not able to complete the challenge so i am restarting it from july 01 2020.
+[Link](https://github.com/i-shivamsoni/100-days-of-code/blob/master/r1-log.md) to new log.
