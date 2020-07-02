@@ -14,3 +14,15 @@ The log of my #100DaysOfCode challenge. Started on [July 1, Wednesday, 2020].
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
+
+
+### Day 02 : Thursday July 02,  2020. 
+
+**Today's Progress**: Studied maps in c++.
+
+**Thoughts:** none .  
+
+**Scope of Improvement:** fix time slots for studying.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
+
