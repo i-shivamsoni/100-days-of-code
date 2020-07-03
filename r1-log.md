@@ -26,3 +26,12 @@ The log of my #100DaysOfCode challenge. Started on [July 1, Wednesday, 2020].
 
 **Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
 
+### Day 03 : Friday July 03,  2020. 
+
+**Today's Progress**: Studied maps in c++ & completed blockchain basics course.
+
+**Thoughts:** none .  
+
+**Scope of Improvement:** fix time slots for studying.
+
+**Link to work:** [Today's work](https://github.com/i-shivamsoni/Dsa_Learning)
