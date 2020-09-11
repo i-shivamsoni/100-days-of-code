@@ -10,11 +10,11 @@
 
 ### Day 1: Sept 11, Friday 2020. 
 
-**Today's Progress**: .
+**Today's Progress**: I completed Creating a Virtual Machine lab qwick labs 
 
-**Thoughts:** .
+**Thoughts:** . I will be upscaling my cloud skills with my core cs skills in my journey 
 
-**Scope of Improvement:** .
+**Scope of Improvement:** . I can set a fix time for studies.
 
-**Link to work:** []()
+**Link to work:** [https://www.qwiklabs.com/focuses/3563?parent=catalog](Creating a Virtual Machine lab)
 
