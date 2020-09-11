@@ -16,5 +16,5 @@
 
 **Scope of Improvement:** . I can set a fix time for studies.
 
-**Link to work:** [https://www.qwiklabs.com/focuses/3563?parent=catalog](Creating a Virtual Machine lab)
+**Link to work:** [Creating a Virtual Machine lab](https://www.qwiklabs.com/focuses/3563?parent=catalog)
 
