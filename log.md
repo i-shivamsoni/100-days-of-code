@@ -18,3 +18,14 @@
 
 **Link to work:** [Creating a Virtual Machine lab](https://www.qwiklabs.com/focuses/3563?parent=catalog)
 
+
+### Day 2: Sept 12, Saturday 2020. 
+
+**Today's Progress**: Getting Started: Create and Manage Cloud Resources quest almost finished
+
+**Thoughts:** . I need to practise ds algo along with cloud.
+
+**Scope of Improvement:** . I can set a fix time for studies.
+
+**Link to work:** [ Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120)
+
