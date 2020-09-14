@@ -41,3 +41,13 @@
 
 **Link to work:** [ Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120)
 
+
+### Day 4: Sept 14, Monday 2020. 
+
+**Today's Progress**: Getting Started: Create and Manage Cloud Resources quest finished
+
+**Thoughts:** . I need to practise ds algo along with cloud.
+
+**Scope of Improvement:** . I can set a fix time for studies.
+
+**Link to work:** [ Create and Manage Cloud Resources](https://www.qwiklabs.com/quests/120)
